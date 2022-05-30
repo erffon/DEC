@@ -3,11 +3,11 @@
     <div class="row bg-light mt-3" style="border-radius:20px 20px 0px 0px;">
 <!-- first column-->
         <div class="col-6 col-md-4  mt-5 mb-4 ms-4">
-            <h3 class="footer-top">درباره محاسبه‌گر سهام</h3>
+            <h3 class="footer-top">About DEC</h3>
             <ui>
-                <li class="footer-lists mb-2"><a href="#about-us" class="secondary">درباره ما</a></li>
-                <li class="footer-lists mb-2"><a href="#contact-us" class="secondary">تماس با ما</a></li>
-                <li class="footer-lists mb-2"><a href="#privacy" class="secondary">حریم خصوصی</a></li>
+                <li class="footer-lists mb-2"><a href="#about-us" class="secondary">About us</a></li>
+                <li class="footer-lists mb-2"><a href="#contact-us" class="secondary">Contact us</a></li>
+                <li class="footer-lists mb-2"><a href="#privacy" class="secondary">Privacy policy</a></li>
             </ui>
         </div>
 <!-- second column-->
