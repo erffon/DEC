@@ -34,7 +34,7 @@
 
 
 <!-- footer -->
-<?php include 'C:\wamp64\www\calculator\footer.php'; ?>
+<?php include 'C:\wamp64\www\dec\footer.php'; ?>
 </html>
 
 
