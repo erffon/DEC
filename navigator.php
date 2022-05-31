@@ -15,10 +15,7 @@
    <!-- nav -->
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ms-auto mb-2 mb-lg-0 gap-3">
-      <div class="btn-group" role="group" aria-label="Basic outlined example">
-            <button type="button" class="btn btn-outline-dark">login</button>
-            <button type="button" class="btn btn-outline-dark">sign up</button>
-          </div>
+      
         <li class="nav-item">
           <a class="nav-link" href="#">Prices</a>
         </li>
@@ -28,6 +25,10 @@
         <li class="nav-item">
           <a class="nav-link" href="#">Blog</a>
         </li>
+        <div class="btn-group" role="group" aria-label="Basic outlined example">
+            <button type="button" class="btn btn-outline-dark">login</button>
+            <button type="button" class="btn btn-outline-dark">sign up</button>
+          </div>
       </ul>
     </div>
 
