@@ -9,9 +9,7 @@
 <div class="container">
     <div class="row align-items-center" style="padding-top:7%;">
 
-        <div class="col-12 col-md-6 d-flex justify-content-center ">
-            <img src="assets\images\christopher-gower-m_HRfLhgABo-unsplash.jpg" alt="hero image" class="img-fluid">
-        </div>
+
         <div class="col-12 col-md-6 ">
             <div class="row gap-5 ps-2">
                 <h1 class="display-4">Don't concert about <strong>equity splitting</strong> anymore!</h1>
@@ -22,7 +20,9 @@
                 </div>
             </div>
         </div>
-        
+        <div class="col-12 col-md-6 d-flex justify-content-center ">
+            <img src="assets\images\christopher-gower-m_HRfLhgABo-unsplash.jpg" alt="hero image" class="img-fluid">
+        </div>
 
     </div>
 </div>
