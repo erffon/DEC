@@ -7,6 +7,10 @@
       <span class="navbar-toggler-icon"></span>
     </button>
 
+        <!-- logo -->
+        <a class="navbar-brand" href="#">Dynamic Equity Calculator</a>
+    <img class="navbar-brand me-3" src="assets\images\like.png" alt="لوگو محاسبه‌گر تقسیم داینامیک">
+
    <!-- nav -->
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ms-auto mb-2 mb-lg-0 gap-3">
@@ -25,9 +29,7 @@
         </li>
       </ul>
     </div>
-    <!-- logo -->
-    <a class="navbar-brand" href="#">Dynamic Equity Calculator</a>
-    <img class="navbar-brand me-3" src="assets\images\like.png" alt="لوگو محاسبه‌گر تقسیم داینامیک">
+
     
   </div>
 </nav>
