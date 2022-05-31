@@ -12,13 +12,13 @@
         <div class="col-12 col-md-6 d-flex justify-content-center ">
             <img src="assets\images\christopher-gower-m_HRfLhgABo-unsplash.jpg" alt="hero image" class="img-fluid">
         </div>
-        <div class="col-12 col-md-6">
-            <div class="row gap-5">
-                <h1 class="display-4"><strong>تقسیم سهام</strong> دیگر دغدغه نخواهد بود!</h1>
-                <p>با استفاده از محاسبه‌گر سهام داینامیک، به راحتی میزان سهام هر کدام از بنیان‌گذاران کسب‌وکارتان را بصورت ماهانه مشخص کنید و بدون دغدغه به گسترش بیزنس خود فکر کنید.</p>
+        <div class="col-12 col-md-6 ">
+            <div class="row gap-5 ps-2">
+                <h1 class="display-4">Don't concert about <strong>equity splitting</strong>anymore!</h1>
+                <p> start your business without any headache of equity splitting between cofounders. DEC (dynamic equity calculator) will do it for you instead. just focus on more important stuff and grow your business.</p>
                 <div class="row">
-                    <div class="col-6 col-md-4 d-flex justify-content-end"><button class="btn btn btn-dark">ثبت نام رایگان <i class="bi bi-arrow-left"></i> </button></div>
-                    <div class="col-6 col-md-4 d-flex justify-content-end"><button class="btn btn btn-outline-dark">اطلاعات بیشتر <i class="bi bi-arrow-left"></i> </button></div>
+                    <div class="col-6 col-md-3 d-flex justify-content-start"><button class="btn btn-dark">get started<i class="bi bi-arrow-right ps-2"></i> </button></div>
+                    <div class="col-6 col-md-3 d-flex justify-content-start"><button class="btn btn-outline-dark">more info<i class="bi bi-arrow-right ps-2"></i> </button></div>
                 </div>
             </div>
         </div>
