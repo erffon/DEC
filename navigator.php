@@ -8,8 +8,9 @@
     </button>
 
         <!-- logo -->
-        <a class="navbar-brand" href="#">Dynamic Equity Calculator</a>
+        
     <img class="navbar-brand me-3" src="assets\images\like.png" alt="لوگو محاسبه‌گر تقسیم داینامیک">
+    <a class="navbar-brand" href="#">Dynamic Equity Calculator</a>
 
    <!-- nav -->
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
