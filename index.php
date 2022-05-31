@@ -27,9 +27,38 @@
     </div>
 </div>
 
+<!-- benefits title -->
+<div class="container" style="padding:5.5rem;">
+    <div class="row justify-content-center">
+        <div class="col-6">
+            <h2 class="display-6">🔥 benefits of using DEC 🔥</h2>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-6 col-md-4">
+            
+        </div>
+        <div class="col-6 col-md-4"></div>
+    </div>
+</div>
+
+<!-- benefits tiles -->
 
 
 
+
+<!-- benefits title -->
+
+<!-- benefits title -->
+
+<!-- benefits title -->
+
+<!-- benefits title -->
+
+<!-- benefits title -->
+
+<!-- benefits title -->
 
 </body>
 
