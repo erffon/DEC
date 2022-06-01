@@ -37,7 +37,11 @@
 
     <div class="row">
         <div class="col-6 col-md-4">
-            
+            <div class="benefits">
+                <img src="assets\images\pie-chart.png" class="benefits-icons" alt="pie chart icon">
+                <div class="circle"></div>
+
+            </div>
         </div>
         <div class="col-6 col-md-4"></div>
     </div>
